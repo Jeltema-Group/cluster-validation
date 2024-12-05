@@ -3,9 +3,9 @@ Assess the performance of optical cluster finders for sanity checks on LSST data
 
 ## Installation
 
-The cluster validation code is structured within a Jupyter notebook and combines several different pieces of code across multiple libraries
+The cluster validation code is structured within a python3 jupyter notebook and combines several different pieces of code across multiple libraries
 
-Most of the required packages are standard and pip-installable, however there are three packages that will need to be installed separately:
+Most of the required packages are standard and pip-installable, however there are three external packages that will need to be installed separately:
 - ClEvaR (0.14.1), [`installation`](http://lsstdesc.org/clevar/source/installation.html)
 - Linmix (0.1.0), [`installation`](http://lsstdesc.org/clevar/source/installation.html](https://linmix.readthedocs.io/en/latest/install.html))
 - CluStR, [`installation`](https://github.com/sweverett/CluStR?tab=readme-ov-file)
